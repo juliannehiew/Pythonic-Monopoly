@@ -21,5 +21,13 @@ In this homework assignment, you will help Harold accomplish the following tasks
 
 # Results
 
-## Real Estate Analysis of San Francisco from 2010 to 2016
-![Charts]()
+
+![Charts](https://github.com/juliannehiew/Pythonic-Monopoly/blob/main/Images/Image1.JPG)
+
+![Charts](https://github.com/juliannehiew/Pythonic-Monopoly/blob/main/Images/Image2.JPG)
+
+![Charts](https://github.com/juliannehiew/Pythonic-Monopoly/blob/main/Images/Image3.JPG)
+
+![Charts](https://github.com/juliannehiew/Pythonic-Monopoly/blob/main/Images/Image4.JPG)
+
+![Charts](https://github.com/juliannehiew/Pythonic-Monopoly/blob/main/Images/Image5.JPG)
