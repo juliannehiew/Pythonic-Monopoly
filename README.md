@@ -1,6 +1,6 @@
 # Pythonic-Monopoly
 
-![San Francisco Park Reading]()
+![San Francisco Park Reading](https://github.com/juliannehiew/Pythonic-Monopoly/blob/main/Images/Image6.JPG)
 
 *[San Francisco Park Reading by Juan Salamanca](https://www.pexels.com/photo/park-san-francisco-reading-61109/) | [Free License](https://www.pexels.com/photo-license/)*
 
